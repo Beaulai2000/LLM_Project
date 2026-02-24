@@ -25,7 +25,7 @@ from langchain_chroma import Chroma
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_core.runnables import RunnableLambda, RunnableWithMessageHistory
 
-MODEL = "gpt-4o-mini"
+MODEL = "gpt-5.1"
 DB_NAME = "vector_db"
 KNOWLEDGE_BASE_DIR = "knowledge-base"
 
